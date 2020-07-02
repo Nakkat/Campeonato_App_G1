@@ -6,10 +6,33 @@
              mc:Ignorable="d"
              x:Class="Campeonato_App_G1.Views.LoginView">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout
+            Padding="20"
+            Spacing="20">
+
+            <Image Source="app_logo.png"
+                   WidthRequest="300"
+                   Margin="30" />
+
+            <Entry Placeholder="Usuário ou email"
+                   HorizontalOptions="FillAndExpand" />
+
+            <Entry Placeholder="Senha"
+                   HorizontalOptions="FillAndExpand" />
+
+            <Button Text="Entrar" 
+                    BackgroundColor="{StaticResource green}" 
+                    TextColor="White"
+                    CornerRadius="7"
+                    WidthRequest="150"
+                    HorizontalOptions="Center"/>
+
+            <Button Text="Cadastre-se"
+                    FontSize="18"
+                    TextColor="{StaticResource blue}"
+                    BackgroundColor="Transparent"
+                    VerticalOptions="EndAndExpand" />
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -1969,24 +1969,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bruno\\.nuget\\packages\\": {},
+    "C:\\Users\\aleli\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\Campeonato_App_G2\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1.Android\\Campeonato_App_G1.Android.csproj",
+      "projectUniqueName": "C:\\Users\\aleli\\OneDrive\\Documentos\\Senai 2º semestre\\Projetos\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1.Android\\Campeonato_App_G1.Android.csproj",
       "projectName": "Campeonato_App_G1.Android",
-      "projectPath": "C:\\Users\\Bruno\\Desktop\\Campeonato_App_G2\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1.Android\\Campeonato_App_G1.Android.csproj",
-      "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruno\\Desktop\\Campeonato_App_G2\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1.Android\\obj\\",
+      "projectPath": "C:\\Users\\aleli\\OneDrive\\Documentos\\Senai 2º semestre\\Projetos\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1.Android\\Campeonato_App_G1.Android.csproj",
+      "packagesPath": "C:\\Users\\aleli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aleli\\OneDrive\\Documentos\\Senai 2º semestre\\Projetos\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aleli\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2000,8 +2000,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Bruno\\Desktop\\Campeonato_App_G2\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1.csproj": {
-              "projectPath": "C:\\Users\\Bruno\\Desktop\\Campeonato_App_G2\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1.csproj"
+            "C:\\Users\\aleli\\OneDrive\\Documentos\\Senai 2º semestre\\Projetos\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1.csproj": {
+              "projectPath": "C:\\Users\\aleli\\OneDrive\\Documentos\\Senai 2º semestre\\Projetos\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1\\Campeonato_App_G1.csproj"
             }
           }
         }

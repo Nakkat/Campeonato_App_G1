@@ -477,3 +477,12 @@ C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Cam
 C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\build.props
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\adb.props
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\Campeonato_App_G1.Android.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\res.flag
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\Campeonato_App_G1.Android.dll
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\Campeonato_App_G1.Android.pdb

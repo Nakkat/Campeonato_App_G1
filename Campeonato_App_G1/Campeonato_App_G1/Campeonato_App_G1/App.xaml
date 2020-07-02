@@ -6,6 +6,9 @@
              mc:Ignorable="d"
              x:Class="Campeonato_App_G1.App">
     <Application.Resources>
-
+        <ResourceDictionary>
+            <Color x:Key="green">#03A65A</Color>
+            <Color x:Key="blue">#048ABF</Color>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>
