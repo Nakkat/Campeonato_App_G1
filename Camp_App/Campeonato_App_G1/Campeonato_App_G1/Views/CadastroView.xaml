@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Campeonato_App_G1.Views.CadastroView">
+    <ContentPage.Content>
+        <StackLayout
+            Padding="20"
+            Spacing="20">
+            <Image Source="Icon_User.png"
+                   WidthRequest="300"
+                   Margin="20"/>
+            <Entry Placeholder="Nome*"
+                   HorizontalOptions="FillAndExpand"/>
+            <Entry Placeholder="Apelido*"
+                    HorizontalOptions="FillAndExpand"/>
+            <Entry Placeholder="Email*"
+                    HorizontalOptions="FillAndExpand"/>
+            <Entry Placeholder="Senha*"
+                   IsPassword="True"
+                    HorizontalOptions="FillAndExpand"/>
+            <Button Text="Cadastrar-se"
+                    BackgroundColor="{StaticResource green}"
+                    TextColor="White"
+                    FontSize="18"
+                    CornerRadius="7"
+                    WidthRequest="180"
+                    HorizontalOptions="Center"
+                    />
+            <Button Text="Login"
+                    FontSize="20"
+                    TextColor="{StaticResource blue}"
+                    BackgroundColor="Transparent"
+                    VerticalOptions="EndAndExpand"
+                    x:Name="BtnLogin"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

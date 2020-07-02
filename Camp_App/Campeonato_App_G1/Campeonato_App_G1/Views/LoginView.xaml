@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Campeonato_App_G1.Views.LoginView">
+    <ContentPage.Content>
+        <StackLayout
+            Padding="20"
+            Spacing="20">
+
+            <Image Source="app_logo.png"
+                   WidthRequest="300"
+                   Margin="30" />
+
+            <Entry Placeholder="Usuário ou email"
+                   HorizontalOptions="FillAndExpand" />
+
+            <Entry Placeholder="Senha"
+                   HorizontalOptions="FillAndExpand" />
+
+            <Button Text="Entrar" 
+                    BackgroundColor="{StaticResource green}" 
+                    TextColor="White"
+                    FontSize="18"
+                    CornerRadius="7"
+                    WidthRequest="150"
+                    HorizontalOptions="Center"/>
+
+            <Button Text="Cadastre-se"
+                    FontSize="18"
+                    TextColor="{StaticResource blue}"
+                    BackgroundColor="Transparent"
+                    VerticalOptions="EndAndExpand" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

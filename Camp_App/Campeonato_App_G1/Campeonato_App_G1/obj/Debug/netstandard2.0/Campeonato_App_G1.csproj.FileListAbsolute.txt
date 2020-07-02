@@ -1,0 +1,72 @@
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\bin\Debug\netstandard2.0\Campeonato_App_G1.deps.json
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\bin\Debug\netstandard2.0\Campeonato_App_G1.dll
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\bin\Debug\netstandard2.0\ref\Campeonato_App_G1.dll
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\bin\Debug\netstandard2.0\Campeonato_App_G1.pdb
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Views\SplashView.xaml.g.cs
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.dll
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\ref\Campeonato_App_G1.dll
+C:\Users\Bruno\Desktop\Campeonato_App_G2\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.pdb
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\bin\Debug\netstandard2.0\Campeonato_App_G1.deps.json
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\bin\Debug\netstandard2.0\Campeonato_App_G1.dll
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\bin\Debug\netstandard2.0\ref\Campeonato_App_G1.dll
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\bin\Debug\netstandard2.0\Campeonato_App_G1.pdb
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.csprojAssemblyReference.cache
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Views\SplashView.xaml.g.cs
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.AssemblyInfoInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.AssemblyInfo.cs
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.csproj.CoreCompileInputs.cache
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.dll
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\ref\Campeonato_App_G1.dll
+C:\Users\aleli\OneDrive\Documentos\Senai 2º semestre\Projetos\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.pdb
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\bin\Debug\netstandard2.0\Campeonato_App_G1.deps.json
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\bin\Debug\netstandard2.0\Campeonato_App_G1.dll
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\bin\Debug\netstandard2.0\ref\Campeonato_App_G1.dll
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\bin\Debug\netstandard2.0\Campeonato_App_G1.pdb
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.csprojAssemblyReference.cache
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Views\SplashView.xaml.g.cs
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.AssemblyInfoInputs.cache
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.AssemblyInfo.cs
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.csproj.CoreCompileInputs.cache
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.dll
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\ref\Campeonato_App_G1.dll
+C:\Users\HENRIQUE\Desktop\trabalho em grupo\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.pdb
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\bin\Debug\netstandard2.0\Campeonato_App_G1.deps.json
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\bin\Debug\netstandard2.0\Campeonato_App_G1.dll
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\bin\Debug\netstandard2.0\ref\Campeonato_App_G1.dll
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\bin\Debug\netstandard2.0\Campeonato_App_G1.pdb
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.csprojAssemblyReference.cache
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Views\SplashView.xaml.g.cs
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.AssemblyInfoInputs.cache
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.AssemblyInfo.cs
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.csproj.CoreCompileInputs.cache
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.dll
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\ref\Campeonato_App_G1.dll
+C:\Users\HENRIQUE\Desktop\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\Campeonato_App_G1\obj\Debug\netstandard2.0\Campeonato_App_G1.pdb
