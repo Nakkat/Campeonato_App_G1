@@ -11,7 +11,7 @@ namespace Campeonato_App_G1
         {
             InitializeComponent();
 
-            MainPage = new CadastroView();
+            MainPage = new PrincipalView();
         }
 
         protected override void OnStart()

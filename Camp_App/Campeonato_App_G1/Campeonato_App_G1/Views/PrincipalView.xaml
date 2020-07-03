@@ -7,9 +7,56 @@
              x:Class="Campeonato_App_G1.Views.PrincipalView">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+
+            <StackLayout
+                 Orientation="Horizontal" BackgroundColor="{StaticResource blue}"
+                >
+
+                <Image
+                        Source="Icon_Listras_White.png"
+                          WidthRequest="30"
+                          HorizontalOptions="Start"
+                          VerticalOptions="Center"
+                       
+                          
+                 />
+
+                <Label Text="Principal"
+                           FontSize="25 "
+                           HorizontalOptions="Start"
+                           VerticalOptions="Center"
+                           TextColor="White"
+                 />
+            </StackLayout>
+
+            <StackLayout
+                Orientation="Horizontal"
+                >
+
+
+                <Image
+                    Source="Icon_Close.png"
+                    WidthRequest="30"
+                    HorizontalOptions="Start"
+                    VerticalOptions="CenterAndExpand"
+                    />
+                <Label 
+                    Text="08/07/2014"
+                    FontSize="20"
+                    HorizontalOptions="Start"
+                    VerticalOptions="CenterAndExpand"
+                    />
+                <Image
+                    Source="baseline_search_black_48dp.png"
+                    WidthRequest="30"
+                    HorizontalOptions="EndAndExpand"
+                    VerticalOptions="CenterAndExpand"
+                    />
+
+            </StackLayout>
+            <StackLayout>
+                <ListView ItemsSource="{Binding Jogos}"/>
+            </StackLayout>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

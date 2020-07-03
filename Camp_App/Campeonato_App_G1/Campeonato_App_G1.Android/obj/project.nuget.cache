@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/HeDm7l79X1DZpe5NavF8uMiLMPXabMMR9mbik3xSuOJFM4hSvSRK35pGVMW1VRPeCZBixdha+0cRO4yf7j4zQ==",
+  "dgSpecHash": "xnKOeslDMVAWzFUDs1MQR4DF9zXoOEUJWCvvvg0stwFz0KPUvXbdHNdmFf82kBFU03Glh85ji2zINWPvxwRJ5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\HENRIQUE\\Desktop\\Camp\\Camp_App\\Campeonato_App_G1\\Campeonato_App_G1.Android\\Camp_App.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\HENRIQUE\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\HENRIQUE\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

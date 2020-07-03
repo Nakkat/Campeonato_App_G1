@@ -958,3 +958,14 @@ C:\Users\HENRIQUE\Desktop\Camp\Camp_App\Campeonato_App_G1\Campeonato_App_G1.Andr
 C:\Users\HENRIQUE\Desktop\Camp\Camp_App\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\HENRIQUE\Desktop\Camp\Camp_App\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\HENRIQUE\Desktop\Camp\Camp_App\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\res\drawable\icon_user.png
+C:\Users\HENRIQUE\Desktop\Camp\Camp_App\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\res\drawable\icon_listras_white.png
+C:\Users\HENRIQUE\Desktop\Camp\Camp_App\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\res\drawable\icon_listras_black.png
+C:\Users\HENRIQUE\Desktop\Camp\Camp_App\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\res\drawable\icon_close.png
+C:\Users\HENRIQUE\Desktop\Camp\Camp_App\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\res\drawable\holanda_bandeira.jpg
+C:\Users\HENRIQUE\Desktop\Camp\Camp_App\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\res\drawable\costa_rica_bandeira.jpg
+C:\Users\HENRIQUE\Desktop\Camp\Camp_App\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\res\drawable\brasil_bandeira.jpg
+C:\Users\HENRIQUE\Desktop\Camp\Camp_App\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\res\drawable\alemanha_bandeira.jpg
+C:\Users\HENRIQUE\Desktop\Camp\Camp_App\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\res\drawable\baseline_search_black_48dp.png
+C:\Users\HENRIQUE\Desktop\Camp\Camp_App\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\android\assets\System.ComponentModel.Annotations.dll
+C:\Users\HENRIQUE\Desktop\Camp\Camp_App\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\android\assets\System.ComponentModel.DataAnnotations.dll
+C:\Users\HENRIQUE\Desktop\Camp\Camp_App\Campeonato_App_G1\Campeonato_App_G1.Android\obj\Debug\90\android\assets\System.ComponentModel.DataAnnotations.pdb
