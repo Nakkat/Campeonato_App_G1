@@ -7,18 +7,27 @@ namespace Campeonato_App_G1.Models
 {
     class Jogo
     {
-        // Trocar qnd formos usar o banco para ser recebido os id's
-        public string NomeSelecaoCasa { get; set; }
-        public string NomeVisitante { get; set; }
-        public int PlacarCasa { get; set; }
-        public int PlacarVisitante { get; set; }
-         public int PenaltisCasa { get; set; }
-        public int PenaltisVisitante { get; set; }
-        [DataType(DataType.Date)]
-        public DateTime Data { get; set; }
-        public string Estadio { get; set; }
-        public string FotoCasa { get; set; }
-        public string FotoVisitante { get; set; }
+        public int id { get; set; }
+        public int selecaoCasa { get; set; }
+        public int selecaoVisitante { get; set; }
+        public int placarCasa { get; set; }
+        public int placarVisitante { get; set; }
+        public int penaltisCasa { get; set; }
+        public int penaltisVisitante { get; set; }
+        public DateTime data { get; set; }
+        public string estadio { get; set; }
 
+        public string dataFormatada
+        {
+            get
+            {
+                return data.ToString("dd/MM/yyyy");
+            }
+        }
+        public override string ToString()
+        {
+            return $"{selecaoCasa} {placarCasa} X {selecaoVisitante} {placarVisitante} ";
+        }
     }
+    
 }
